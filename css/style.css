@@ -82,6 +82,9 @@ form .btn{
     #logo{
         width: 110px;
     }
+    .content {
+        margin: 50% auto 0;
+    }
     .content h1{
         font-size: 38px;
     }
