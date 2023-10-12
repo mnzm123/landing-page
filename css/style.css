@@ -78,3 +78,24 @@ form .btn{
 .links a img{
     width: 30px;
 }
+@media (max-width: 600px){
+    #logo{
+        width: 110px;
+    }
+    .content h1{
+        font-size: 38px;
+    }
+    form{
+        height: 52px;
+    }
+    form input{
+        padding:10px 10px;
+        font-size: 12px;
+    }
+    form .btn {
+        height: 52px;
+    }
+    .btn{
+        padding: 16px 15px;
+    }
+}
